@@ -10,3 +10,9 @@ public class wiproqn2{
         System.out.print(arr[i]);
     }
 }
+/* 
+python code
+txt=input()
+for i in txt.split(" ")[::-1]:
+    print(i,end='')
+*/
